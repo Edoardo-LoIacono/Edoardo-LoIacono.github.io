@@ -3,6 +3,12 @@ title: Chi sono
 layout: default
 ---
 
+<style>
+  footer, .site-footer, .footer {
+    display: none !important;
+  }
+</style>
+
 # Edoardo Lo Iacono
 
 Studente al primo anno di Lettere Moderne presso l’Università di Torino, ho sviluppato nel corso del mio percorso formativo un profilo interdisciplinare, caratterizzato da una marcata curiosità intellettuale e da un costante interesse tanto per le discipline umanistiche quanto per quelle scientifiche. Diplomato come perito informatico, unisco a una solida impostazione razionale e metodologica una spiccata sensibilità per gli ambiti culturali ed espressivi.
