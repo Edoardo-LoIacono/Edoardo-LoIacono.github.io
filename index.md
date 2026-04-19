@@ -12,3 +12,5 @@ Parallelamente agli studi accademici, coltivo da anni un’intensa attività in 
 Svolgo attività di supporto allo studio da oltre due anni, offrendo ripetizioni rivolte a studenti di diversi livelli. Il mio approccio si fonda su un equilibrio tra rigore metodologico e attenzione alle esigenze individuali, con l’obiettivo di favorire non solo l’apprendimento dei contenuti, ma anche l’acquisizione di un metodo di studio consapevole ed efficace.
 
 Ritengo che lo studio e la cultura costituiscano strumenti fondamentali per la comprensione della realtà e per la crescita personale; per questo motivo, mi impegno a trasmettere il valore della conoscenza come processo dinamico, critico e aperto.
+
+Vai agli appunti: [Vai agli appunti](appunti)
