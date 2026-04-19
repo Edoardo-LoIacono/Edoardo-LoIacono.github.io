@@ -1,4 +1,14 @@
-# Appunti per ripetizioni
+---
+title: Chi sono
+layout: default
+---
 
-* [Limiti e punti di discontinuità](Appunti_limiti_e_discontinuita.pdf)
-* [Derivate](Appunti_derivate.pdf)
+# Edoardo Lo Iacono
+
+Studente al primo anno di Lettere Moderne presso l’Università di Torino, ho sviluppato nel corso del mio percorso formativo un profilo interdisciplinare, caratterizzato da una marcata curiosità intellettuale e da un costante interesse tanto per le discipline umanistiche quanto per quelle scientifiche. Diplomato come perito informatico, unisco a una solida impostazione razionale e metodologica una spiccata sensibilità per gli ambiti culturali ed espressivi.
+
+Parallelamente agli studi accademici, coltivo da anni un’intensa attività in ambito culturale: conduco gruppi di lettura presso realtà associative e bibliotecarie nel territorio di Bra, promuovendo il confronto critico e la partecipazione attiva attorno al testo letterario. Il teatro rappresenta inoltre una componente significativa della mia formazione personale, contribuendo allo sviluppo di competenze comunicative e interpretative.
+
+Svolgo attività di supporto allo studio da oltre due anni, offrendo ripetizioni rivolte a studenti di diversi livelli. Il mio approccio si fonda su un equilibrio tra rigore metodologico e attenzione alle esigenze individuali, con l’obiettivo di favorire non solo l’apprendimento dei contenuti, ma anche l’acquisizione di un metodo di studio consapevole ed efficace.
+
+Ritengo che lo studio e la cultura costituiscano strumenti fondamentali per la comprensione della realtà e per la crescita personale; per questo motivo, mi impegno a trasmettere il valore della conoscenza come processo dinamico, critico e aperto.
