@@ -20,5 +20,19 @@ layout: default
 
 # Matematica
 
-- [Limiti e punti di discontinuità](Appunti_limiti_e_discontinuita.pdf)
-- [Derivate](Appunti_derivate.pdf)
+- [Limiti e punti di discontinuità](assets/appunti/Appunti_limiti_e_discontinuita.pdf)
+- [Derivate](assets/appunti/Appunti_derivate.pdf)
+
+# Informatica
+
+## Generale
+
+- [Fondamenti di programmazione](assets/appunti/Fondamenti_di_programmazione.pdf) ⚠️ In costruzione ⚠️
+
+## Linguaggi di programmazione
+
+- []
+
+## Framework
+
+- [Flutter]() ⚠️ In costruzione ⚠️
