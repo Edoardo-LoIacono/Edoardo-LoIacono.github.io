@@ -35,4 +35,4 @@ layout: default
 
 ## Framework
 
-- [Flutter]() ⚠️ In costruzione ⚠️
+- [Flutter](assets/appunti/flutter.pdf) ⚠️ In costruzione ⚠️
