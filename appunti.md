@@ -31,7 +31,7 @@ layout: default
 
 ## Linguaggi di programmazione
 
-- []
+- [c++](assets/appunti//Introduzione_al_linguaggio_c__.pdf) ⚠️ In costruzione ⚠️
 
 ## Framework
 
