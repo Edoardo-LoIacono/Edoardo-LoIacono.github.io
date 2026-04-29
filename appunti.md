@@ -27,7 +27,7 @@ layout: default
 
 ## Generale
 
-- [Fondamenti di programmazione](assets/appunti/Fondamenti_di_programmazione.pdf) ⚠️ In costruzione ⚠️
+- [Fondamenti di programmazione](assets/appunti/Fondamenti_di_informatica.pdf) ⚠️ In costruzione ⚠️
 
 ## Linguaggi di programmazione
 
