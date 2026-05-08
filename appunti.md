@@ -35,5 +35,5 @@ layout: default
 
 ## Framework
 
-- [Bootstrap] (assets/appunti/Bootstrap_5.pdf) ⚠️ In costruzione ⚠️
+- [Bootstrap](assets/appunti/Bootstrap_5.pdf) ⚠️ In costruzione ⚠️
 - [Flutter](assets/appunti/flutter.pdf) ⚠️ In costruzione ⚠️
