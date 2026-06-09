@@ -37,3 +37,7 @@ layout: default
 
 - [Bootstrap](assets/appunti/Bootstrap_5.pdf) ⚠️ In costruzione ⚠️
 - [Flutter](assets/appunti/flutter.pdf) ⚠️ In costruzione ⚠️
+
+# Linguistica
+
+- [Linguistica Storica](assets/appunti/Linguistica_Storica.pdf) ⚠️ In costruzione ⚠️
