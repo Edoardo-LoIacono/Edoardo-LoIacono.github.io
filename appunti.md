@@ -41,3 +41,7 @@ layout: default
 # Linguistica
 
 - [Linguistica Storica](assets/appunti/Linguistica_Storica.pdf) ⚠️ In costruzione ⚠️
+
+# Latino
+
+- [Latino](assets/appunti/Latino.pdf) ⚠️ In costruzione ⚠️
