@@ -41,6 +41,8 @@ layout: default
 # Linguistica
 
 - [Linguistica Storica](assets/appunti/Linguistica_Storica.pdf) ⚠️ In costruzione ⚠️
+- [Appunti](assets/appunti/libro_linguistica.pdf) Da digitalizzare
+- [Regole](assets/appunti/regole_linguistica.pdf) Da digitalizzare
 
 # Latino
 
